@@ -14,7 +14,7 @@ if (op !== "1" && op !== "2" && op !== "3" && op !== "4") {
                 alert("El caballo (Equus ferus caballus)1​2​ es un mamífero perisodáctilo domesticado de la familia de los équidos.");
             }
             if (ver==="2") {
-                alert("El perro (Canis familiaris o Canis lupus familiaris dependiendo de si se lo considera una especie por derecho propio o una subespecie del lobo),1​2​3​ llamado perro doméstico o can,4​ y en algunos lugares coloquialmente llamado chucho,5​ tuso,6​ choco,7​ entre otros; es un mamífero carnívoro de la familia de los cánidos, que constituye una especie del género Canis.");
+                alert("El perro (Canis familiaris o Canis lupus familiaris dependiendo de si se lo considera una especie por derecho  o una subespecie del lobo),1​2​3​ llamado perro doméstico o can,4​ y en algunos lugares coloquialmente llamado chucho,5​ tuso,6​ choco,7​ entre otros; es un mamífero carnívoro de la familia de los cánidos, que constituye una especie del género Canis.");
             }
             if (ver==="3") {
                 alert("El gato doméstico1​2​ (Felis silvestris catus), llamado popularmente gato, y de forma coloquial minino,3​ michino,4​ michi,5​ micho,6​ mizo,7​ miz,8​ morroño9​ o morrongo,10​ entre otros nombres, es un mamífero carnívoro de la familia Felidae. Es una subespecie domesticada por la convivencia con el ser humano.");
